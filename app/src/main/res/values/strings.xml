@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Task 1</string>
+    <string name="user_name">Ульяна Лахина</string>
+    <string name="status_online">В сети</string>
+    <string name="posts">Посты: 42</string>
+    <string name="followers">Подписчики: 1.2K</string>
+    <string name="following">Подписки: 350</string>
+    <string name="subscribe">Подписаться</string>
+    <string name="subscribed">Вы подписаны</string>
+</resources>
